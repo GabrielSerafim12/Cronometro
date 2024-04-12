@@ -1,0 +1,29 @@
+div {
+    text-align: center;
+}
+
+body{
+    background: black;
+}
+
+h1{
+    color: white;
+}
+
+button{
+    height: 2.5em;
+    width: 5.5em;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.iniciar{
+    background-color: green;
+}
+.pause{
+    background-color: red;
+}
+.parar{
+    background-color: blue;
+}
